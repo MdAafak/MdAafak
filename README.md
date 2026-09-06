@@ -16,7 +16,7 @@ Currently I am learning Java and I have just started with Git & GitHub. Complete
 - VS Code
 
 ### My First Repo
-This repo my-first-github is my first repo where I learned how to create branch, commit, pull request and merge.
+This is my first repository - my-first-github-where i learned the fundementals from microsoft educator including branching, commits, pull requests and merge them.
 
 I am working on improving my Java and will push my DSA practice here
 
