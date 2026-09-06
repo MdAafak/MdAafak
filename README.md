@@ -20,8 +20,8 @@ This repo my-first-github is my first repo where I learned how to create branch,
 
 I am working on improving my Java and will push my DSA practice here
 
-### Connect with me
-- LinkedIn: https://www.linkedin.com/in/md-aafak-4483a42b7/
+### Connect with me-
+https://www.linkedin.com/in/md-aafak-4483ba42b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: mdaafak2006@gmail.com
 
 Thanks for visiting!
