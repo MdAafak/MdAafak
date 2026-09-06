@@ -14,6 +14,7 @@ Currently I am learning Java and I have just started with Git & GitHub. Complete
 - Java (Beginner)
 - Git & GitHub (Beginner)
 - VS Code
+- Dsa(Data structure and algorithm)
 
 ### My First Repo
 This is my first repository - my-first-github-where i learned the fundementals from microsoft educator including branching, commits, pull requests and merge them.
